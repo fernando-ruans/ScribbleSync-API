@@ -26,6 +26,7 @@ O backend do ScribbleSync é desenvolvido em Node.js e utiliza uma variedade de 
 - **Multer**: Middleware para lidar com multipart/form-data, usado para upload de arquivos.
 - **SQLite**: Banco de dados SQL embutido.
 - **Insomnia**: Ferramenta para testar e depurar APIs.
+- **PM2**: Gerenciador de processos avançado para Node.js que permite gerenciar e manter aplicativos Node.js em execução em um ambiente de produção. Ele fornece recursos como monitoramento de processos, balanceamento de carga, recuperação de falhas e muito mais.
 
 ## Próximos Passos
 - Implementar endpoints adicionais para outras funcionalidades do aplicativo.
